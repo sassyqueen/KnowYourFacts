@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
                 // set alarm
                 am.set(AlarmManager.RTC_WAKEUP, cal.getTimeInMillis(), pendingIntent);
+                finish();
 
             }
         });
