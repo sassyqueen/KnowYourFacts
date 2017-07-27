@@ -26,6 +26,7 @@ public class ScheduledNotificationReceiver extends BroadcastReceiver {
         builder.setContentIntent(pIntent);
         builder.setAutoCancel(true);
 
+
         Notification n = builder.build();
         NotificationManager notificationManager = (NotificationManager)context.getSystemService(Context.NOTIFICATION_SERVICE);
 
