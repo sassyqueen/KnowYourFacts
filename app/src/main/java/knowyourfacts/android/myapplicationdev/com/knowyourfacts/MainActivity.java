@@ -124,7 +124,6 @@ public class MainActivity extends AppCompatActivity {
         prefEdit.putInt("currentPage", vPager.getCurrentItem());
         prefEdit.commit();
 
-
     }
 
     @Override
@@ -133,6 +132,5 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
         int currentPage = prefs.getInt("currentPage", 0);
         vPager.setCurrentItem(currentPage, true);
-
     }
 }
