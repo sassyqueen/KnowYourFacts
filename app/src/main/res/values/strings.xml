@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Know Your Facts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frag1_text">Turin was declared the first capital of Italy before Rome. \n \n
+
+        Your teeth are also considered part of your skeletal system but they are not counted as bones. Your teeth are made of enamel and dentin. Enamel is the strongest substance in your body. \n \n
+
+
+        Arabic numerals were developed in India by the Hindus around 600 A.D. Interestingly, these numbers were written "backwards", thus one hundred twenty three was written 321. Around 750 A.D. this system of decimal arithmetic was brought to Persia when several important Hindu works were translated into Arabic.
+
+
+    </string>
+
+    <string name="frag2_text">
+
+
+        Studies suggest that approximately 10% of the world population is left-handed.  \n \n
+
+        Pigs have very short necks so they find it very had to look up at the sky. Remember they also have their eyes at the side of their heads. So now, quick experiment: Scrunch you head down to your shoulders, making your neck as short as possible. \n \n
+
+
+        The Leaning Tower of Pisa took 344 years to build, beginning in August 1173. It began to lean in 1178 once construction on the second floor had begun. The lean was due to one side sinking into the soft ground.
+    </string>
+
+    <string name="frag3_text">
+
+
+        Gin is a liquor made from grain (some combination of barley, corn, and/or rye) that has been infused with juniper berries and other botanicals \n \n
+
+        Believe it or not, present-day Santa owes his red robe not to an ancient legend or to an early myth but to the Coca Cola Company. A long time ago Father Christmas was shown in clothes of different colours: green, purple, light-blue, navy blue, brown or red. \n \n
+
+        The unicorn is the national animal of Scotland.
+
+
+    </string>
+
+
+</resources>
